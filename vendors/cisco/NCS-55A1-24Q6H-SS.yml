@@ -6,4 +6,4 @@ typical_power_W: 400
 typical_power_descr: 'at 25 degree Celsius'
 max_power_W: 550
 max_power_descr: 'at 55 degree Celsius'
-max_capaity_Tbps: 0.9
+max_capacity_Tbps: 0.9

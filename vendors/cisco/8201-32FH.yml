@@ -6,4 +6,4 @@ typical_power_W: 288
 typical_power_descr: 'at 12.8 Tbps'
 max_power_W: # int
 max_power_descr: # string
-max_capaity_Tbps: # float
+max_capacity_Tbps: # float

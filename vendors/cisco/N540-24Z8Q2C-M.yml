@@ -6,4 +6,4 @@ typical_power_W: 200
 typical_power_descr: 'at most 200. At least 100'
 max_power_W: 250
 max_power_descr: # string
-max_capaity_Tbps: 0.0003
+max_capacity_Tbps: 0.0003

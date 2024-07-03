@@ -6,4 +6,4 @@ typical_power_W: 110
 typical_power_descr: # string
 max_power_W: 150
 max_power_descr: # string
-max_capaity_Tbps: # float
+max_capacity_Tbps: # float
