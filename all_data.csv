@@ -2,6 +2,7 @@ model_id,vendor,datasheet_url,release_date,typical_power_W,typical_power_descr,m
 8201-24H8FH,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.html,,205,at 5.6 Tbps,,,5.6
 8201-32FH,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.html,,288,at 12.8 Tbps,,,
 8201-SYS,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.html,,,,,,10.8
+8202-SYS,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.html,,,,,,10.8
 A9K-RSP880-TR,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-733763.html,,,,,,
 ASR-9001,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9001-router/data_sheet_c78-685687.html,,425,,525,,
 ASR-9006,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/data_sheet_c78-501767.html,2008-11-11,,,,,
