@@ -16,4 +16,6 @@ NCS-55A1-24H,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/net
 NCS-55A1-24Q6H-SS,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-743998.html,,400,at 25 degree Celsius,550,at 55 degree Celsius,0.9
 NCS-55A1-24Q6H,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-743998.html,,330,at 25degC,450,at 55degC,
 NCS-55A1-48Q6H,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-742295.html?dtid=osscdc000283,,460,at 25degC,700,at 55degC,1.8
+WS-C3560CX-12PC-S,Cisco,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/data_sheet-c78-729449.html,2014-12-01,26,"26.1W: 10% throughput, no PoE",26,"26.3W: 100% throughput, no PoE",0.032
+WS-C3560CX-8PC-S,Cisco,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/data_sheet-c78-729449.html,2014-12-01,24,"24.2W: 10% throughput, no PoE",24,"24.4W: 100% throughput, no PoE",0.024
 WS-C6504-E,Cisco,https://www.cisco.com/c/en/us/support/switches/catalyst-6504-e-switch/model.html,2005-05-31,,,2700,,
