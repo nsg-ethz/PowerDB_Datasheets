@@ -6,7 +6,10 @@ model_id,vendor,datasheet_url,release_date,typical_power_W,typical_power_descr,m
 A9K-RSP880-TR,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-733763.html,,,,,,
 ASR-9001,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9001-router/data_sheet_c78-685687.html,,425,,525,,
 ASR-9006,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/data_sheet_c78-501767.html,2008-11-11,,,,,
+ASR-920-12CZ-A,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-732103.html,,110,,150,,
 ASR-920-24SZ-M,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-733397.html,,110,,150,,
+ASR-920-4SZ-A,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-732103.html,,110,,150,,
+ME-3400EG-2CS-A,Cisco,https://www.cisco.com/c/en/us/products/collateral/switches/me-3400e-series-ethernet-access-switches/data_sheet_c78-495220.html,,110,,150,,
 N540-24Z8Q2C-M,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-500-series-routers/datasheet-c78-740296.html,,200,at most 200. At least 100,250,,0.0003
 N540X-8Z16G-SYS-A,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-500-series-routers/datasheet-c78-744713.html,2019-08-30,70,at least 40W,100,,
 N9K-93108LC-EX,Cisco,https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-742283.html,2016-02-29,220,,500,,2.3
@@ -18,4 +21,5 @@ NCS-55A1-24Q6H,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/n
 NCS-55A1-48Q6H,Cisco,https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-742295.html?dtid=osscdc000283,,460,at 25degC,700,at 55degC,1.8
 WS-C3560CX-12PC-S,Cisco,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/data_sheet-c78-729449.html,2014-12-01,26,"26.1W: 10% throughput, no PoE",26,"26.3W: 100% throughput, no PoE",0.032
 WS-C3560CX-8PC-S,Cisco,https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/data_sheet-c78-729449.html,2014-12-01,24,"24.2W: 10% throughput, no PoE",24,"24.4W: 100% throughput, no PoE",0.024
+WS-C6503-E,Cisco,,,,,,,
 WS-C6504-E,Cisco,https://www.cisco.com/c/en/us/support/switches/catalyst-6504-e-switch/model.html,2005-05-31,,,2700,,
