@@ -2,6 +2,8 @@
 
 Welcome to the **PowerDB_Datasheets** repository, an open-source project dedicated to collecting and maintaining detailed information about the power consumption of various network devices, including routers and transceivers. This repository is a part of the larger **Network Power Zoo** project, contributing data to the **NetPowerDB** database, which is accessible via an API.
 
+> **Note:** Throughout this repository, the term "router" is used broadly to include both routers and switches.
+
 ## Repository Structure
 
 The repository is organized as follows:
