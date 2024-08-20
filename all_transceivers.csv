@@ -1,1 +1,2 @@
 model_id,vendor,datasheet_url,rx_sensitivity_dBm,tx_power_dBm,datarate_Gbps,typical_power_W,typical_power_descr,max_power_W,max_power_descr
+QDD-8X100G-FR,Cisco,https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/qsfp-dd800-transceiver-modules-ds.html,,,,,,,
