@@ -15,16 +15,11 @@ The repository is organized as follows:
   Similar to `router-vendors/`, this directory is structured with subfolders for different transceiver vendors. Each subfolder includes YAML files with power consumption data for specific transceiver models. The filename of each YAML file corresponds to the `model_id` of the transceiver.
 
 - **Templates:**
+
   - **router-template.yml**  
     This template file outlines the required structure and data types for router information. Contributors should use this template to ensure that their data submissions are correctly formatted.
   - **transceiver-template.yml**  
     This template file provides the structure and data types for transceiver information. Contributors should follow this template when adding new data.
-
-- **CSV Files:**
-  - **all_routers.csv**  
-    This CSV file contains a table of all the data from the YAML files in the `router-vendors/` directory. It is automatically updated and should not be manually edited.
-  - **all_transceivers.csv**  
-    This CSV file compiles all the data from the YAML files in the `transceiver-vendors/` directory. Like `all_routers.csv`, it is automatically updated and should not be manually edited.
 
 - **LICENSE**  
   The repository is licensed under the CC0-1.0 license, making it free for public use.
@@ -40,8 +35,8 @@ We welcome contributions to expand and improve the data in this repository. Here
 2. **Navigate to the Appropriate Directory:**
    - For routers, go to `router-vendors/`.
    - For transceivers, go to `transceiver-vendors/`.
-   
 3. **Add New Data:**
+
    - Copy the relevant template file (`router-template.yml` or `transceiver-template.yml`) and fill in the data for the new device model.
    - Ensure that the file name matches the `model_id` of the device.
 
@@ -54,8 +49,7 @@ You can retrieve data either directly from this repository or via the **NetPower
 
 ### From the Repository
 
-- Access the YAML files in `router-vendors/` or `transceiver-vendors/` to view individual device power consumption details.
-- The CSV files `all_routers.csv` and `all_transceivers.csv` provide a tabular view of all the data in the repository.
+Access the YAML files in `router-vendors/` or `transceiver-vendors/` to view individual device power consumption details.
 
 ### Using the NetPowerDB API
 
