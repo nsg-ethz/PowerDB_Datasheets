@@ -1,6 +1,6 @@
-model_id: 'N9K-93108YC-EX'
-vendor: 'Cisco'
-datasheet_url: 'https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-742283.html'
+model_id: "N9K-C93108YC-EX"
+vendor: "Cisco"
+datasheet_url: "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-742283.html"
 release_date: 2016-02-29 # YYYY-MM-DD
 typical_power_W: 210 # int
 typical_power_descr: # string
