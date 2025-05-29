@@ -1,5 +1,5 @@
-model_id: # string
-vendor: # string
+model_id: # string (mandatory)
+vendor: # string (mandatory)
 datasheet_url: # string
 rx_sensitivity_dBm: # float
 tx_power_dBm: # float
