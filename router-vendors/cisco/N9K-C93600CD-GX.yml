@@ -1,0 +1,9 @@
+model_id: "N9K-C93600CD-GX"
+vendor: "Cisco"
+datasheet_url: "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/nexus-9300-gx-series-switches-ds.html"
+release_date: 2019-09-01 # YYYY-MM-DD
+typical_power_W: 586 # int
+typical_power_descr: # string
+max_power_W: 1071 # int
+max_power_descr: # string
+max_capacity_Tbps: 12 # ((28 ports * 100 Gbps + 8 ports * 400 Gbps) * 2) / 1000

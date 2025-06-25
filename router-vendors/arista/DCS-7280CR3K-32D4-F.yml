@@ -1,0 +1,9 @@
+model_id: "DCS-7280CR3K-32D4-F" # string (mandatory)
+vendor: "Arista" # string (mandatory)
+datasheet_url: "https://www.arista.com/assets/data/pdf/Datasheets/7280R3-Data-Sheet.pdf"
+release_date: 2022-11-23 # YYYY-MM-DD
+typical_power_W: 535 # int
+typical_power_descr: # string
+max_power_W: 851 # int
+max_power_descr: # string
+max_capacity_Tbps: 9.6 # ((32*100+4*400)*2)/1000
